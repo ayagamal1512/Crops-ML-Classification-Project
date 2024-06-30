@@ -1,5 +1,5 @@
 # Acknowledge 
--This repo inclueds only the project tho, will post the course content and data in a separate repo ;) 
+- This repo inclueds only the project tho, will post the course content and data in a separate repo ;) 
 - This course is a part of Machine Learning Course on DataCamp called **Supervised Learning with Scikit-Learn**
 - Here are some highlights from the course
 
