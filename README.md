@@ -15,5 +15,5 @@
   -  performance metrics such as Precission , Recall, F1 Score and calculating Model Accuracey
   -  Visualization Techniques
   -  Preprocesssing Techniques such as Standaed Scaling
-  -  Applied 3 of Classification Algorithms such as Multinomial Logistic Regression , KNN and Decision Tree
+  -  Applied 3 of Classification Algorithms such as Multinomial Logistic Regression , KNN and Decision Tree.
 ![Decision Tree with Max Depth = 5](https://github.com/ayagamal1512/Crops-ML-Classification-Project/blob/main/download%20(1).png)
